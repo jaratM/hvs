@@ -1,0 +1,4 @@
+/home/ilias.azizi/Bureau/hvs/hnsw/cmake-build-debug/CMakeFiles/sift_test.dir
+/home/ilias.azizi/Bureau/hvs/hnsw/cmake-build-debug/CMakeFiles/main.dir
+/home/ilias.azizi/Bureau/hvs/hnsw/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/ilias.azizi/Bureau/hvs/hnsw/cmake-build-debug/CMakeFiles/rebuild_cache.dir
